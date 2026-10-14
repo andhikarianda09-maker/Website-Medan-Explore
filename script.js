@@ -110,7 +110,7 @@ const destinations = [
         category: "Kuliner",
         location: "Kota Medan",
         description: "Kuliner khas Medan dengan kuah santan yang gurih dan kaya rempah.",
-        detailDescription: "Soto ttps://mapsMedan adalah salah satu kuliner khas Kota Medan yang terkenal dengan kuah santannya yang gurih dan kaya rempah. Hidangan ini biasanya disajikan dengan potongan daging ayam atau sapi, bihun, tauge, dan taburan bawang goreng. Soto Medan memiliki cita rasa yang unik dan menjadi favorit bagi warga lokal maupun wisatawan yang berkunjung ke Medan. Selain rasanya yang lezat, Soto Medan juga dikenal sebagai makanan yang menghangatkan tubuh, terutama saat cuaca dingin.",
+        detailDescription: "Soto Medan adalah salah satu kuliner khas Kota Medan yang terkenal dengan kuah santannya yang gurih dan kaya rempah. Hidangan ini biasanya disajikan dengan potongan daging ayam atau sapi, bihun, tauge, dan taburan bawang goreng. Soto Medan memiliki cita rasa yang unik dan menjadi favorit bagi warga lokal maupun wisatawan yang berkunjung ke Medan. Selain rasanya yang lezat, Soto Medan juga dikenal sebagai makanan yang menghangatkan tubuh, terutama saat cuaca dingin.",
         image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soto%20medan.jpg",
         source: "Fachriazmi9 / Wikimedia Commons",
         rating: "-",
